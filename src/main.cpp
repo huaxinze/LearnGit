@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "current branch is A" << std::endl;
+    std::cout << "current branch is B" << std::endl;
     return 0;
 }
