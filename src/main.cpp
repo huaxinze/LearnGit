@@ -8,5 +8,6 @@ int main()
 {
     std::cout << "current branch is E" << std::endl;
     std::cout << "master brach commit second time" << std::endl;
+    std::cout << "feature brach modify and merge" << std::endl;
     return 0;
 }
