@@ -1,0 +1,2 @@
+D:/work/Git/LearnGit/build/CMakeFiles/edit_cache.dir
+D:/work/Git/LearnGit/build/CMakeFiles/rebuild_cache.dir
