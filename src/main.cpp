@@ -4,6 +4,8 @@ using namespace std;
 
 int a = 10;
 
+int c = 22;
+
 int main()
 {
     std::cout << "current branch is E" << std::endl;
