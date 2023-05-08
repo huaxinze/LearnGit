@@ -4,12 +4,12 @@ using namespace std;
 
 int a = 10;
 
-int c = 22;
+int c = 32;
 
 int main()
 {
     std::cout << "current branch is E" << std::endl;
-    std::cout << "master brach commit fifth time" << std::endl;
+    std::cout << "master brach commit sixth time" << std::endl;
     std::cout << "feature brach modify and merge" << std::endl;
 
     // step1:feature 分支开发代码
