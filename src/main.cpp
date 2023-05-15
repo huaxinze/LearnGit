@@ -8,7 +8,7 @@ int c = 32;
 
 int main()
 {
-    std::cout << "current branch is E" << std::endl;
+    std::cout << "current branch is G" << std::endl;
     std::cout << "master brach commit sixth time" << std::endl;
     std::cout << "feature brach modify and merge" << std::endl;
 
